@@ -14,18 +14,17 @@
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=java" />
+
   </a>
 </p>
 
 <h2>Tools i use</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c" />
-    <img src="https://skillicons.dev/icons?i=cpp" />
-    <img src="https://skillicons.dev/icons?i=html" />
-    <img src="https://skillicons.dev/icons?i=css" />
-    <img src="https://skillicons.dev/icons?i=mysql" />
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=eclipse" />
+    <img src="https://skillicons.dev/icons?i=arduino" />
+    <img src="https://skillicons.dev/icons?i=notion" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </p>
 
