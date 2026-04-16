@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c  ,kubernetes,docker,c,vim" />
-    <img src="https://skillicons.dev/icons?i=cpp  ,kubernetes,docker,c,vim" />
-    <img src="https://skillicons.dev/icons?i=html  ,kubernetes,docker,c,vim" />
-    <img src="https://skillicons.dev/icons?i=css  ,kubernetes,docker,c,vim" />
-    <img src="https://skillicons.dev/icons?i=mysql  ,kubernetes,docker,c,vim" />
-    <img src="https://skillicons.dev/icons?i=java  ,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=c" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=java" />
   </a>
 </p>
 <!--
