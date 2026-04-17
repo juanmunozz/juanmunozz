@@ -1,6 +1,5 @@
 <h1>Hi, im Juan Muñoz</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Juan+Mu%C3%B1oz;Aspiring+Software+Developer;C+%7C+Java+%7C+Web;Always+learning+and+building" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanmunozz&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=dracula)
 
@@ -54,6 +53,8 @@
 	
 </ul>
 </div>
+
+[![Juan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juanmunozz&theme=dracula)](https://github.com/juanmunozz)
 
 <!--
 **juanmunozz/juanmunozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
