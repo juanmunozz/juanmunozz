@@ -1,18 +1,10 @@
 <h1>Hi, im Juan Muñoz</h1>
 
-<br>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=juanmunozz&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=dracula)
-
-<br>
-
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanmunozz&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmunozz&layout=compact&theme=dracula)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=juanmunozz&theme=dracula)
+
 
 <h2>My languajes</h2>
 <p align="left">
