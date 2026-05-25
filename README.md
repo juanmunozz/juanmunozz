@@ -54,7 +54,6 @@
 </ul>
 </div>
 
-[![Juan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juanmunozz&theme=dracula)](https://github.com/juanmunozz)
 
 <!--
 **juanmunozz/juanmunozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
